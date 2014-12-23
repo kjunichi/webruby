@@ -44,7 +44,7 @@ Webruby::App.setup do |conf|
   # conf.gem :core => "mruby-eval"
 
   # JavaScript calling interface
-  # conf.gem :git => 'git://github.com/xxuejie/mruby-js.git', :branch => 'master'
+  # conf.gem :git => 'git://github.com/kjunichi/mruby-js.git', :branch => 'master'
 
   # OpenGL ES 2.0 binding
   # conf.gem :git => 'git://github.com/xxuejie/mruby-gles.git', :branch => 'master'
